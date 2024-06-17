@@ -1,0 +1,33 @@
+DSA in C++
+1. Array. 
+2. Linked List.
+3. Stacks.
+4. Queues.
+5. Trees.
+6. Graphs.
+
+Algorithms 
+1. Sorting Algo.  
+   Bubble Sort.
+   Selection Sort.
+   Insertion Sort.
+   Merge Sort.
+   Quick Sort.
+
+2. Searching Algo
+   Linear Search.
+   Binary Search.
+
+3. Graph Algo
+   Breadth First Search (BFS).
+   Depth First Search (DFS).
+   Dijkstra's Algo.
+   Bellman Ford Algo.
+
+4. Dynamic Programming.
+5. Greedy Algo.
+
+Additional Topics 
+1. Big O Notation.
+2. Recursion.
+3. Bit Manipulation.
